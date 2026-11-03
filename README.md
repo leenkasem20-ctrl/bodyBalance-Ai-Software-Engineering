@@ -1,4 +1,4 @@
-BodyBalance AI
+BodyBalance AI – AI-Powered Health and Fitness Decision-Support System
 
 Understand today. Support the next step.
 
